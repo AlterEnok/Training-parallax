@@ -65,7 +65,7 @@ html {
 /* Параллакс-эффект */
 .parallax {
     height: 100vh;
-    background-image: url('/img/istockphoto-1202238715-1024x1024.jpg');
+    background-image: url('./img/istockphoto-1202238715-1024x1024.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ html {
 }
 
 .parallax-second {
-    background-image: url('/img/istockphoto-1135293039-1024x1024.jpg');
+    background-image: url('./img/istockphoto-1135293039-1024x1024.jpg');
 
 
 }
